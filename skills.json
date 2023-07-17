@@ -9,22 +9,6 @@
         "name": "Android",
         "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
     },
-    {
-        "name": "Bootstrap",
-        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
-    },
-    {
-        "name": "Sass",
-        "icon": "https://img.icons8.com/color/48/000000/sass.png"
-    },
-    {
-        "name": "HTML5",
-        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
-    },
-    {
-        "name": "CSS3",
-        "icon": "https://img.icons8.com/color/48/000000/css3.png"
-    },
     
     {
         "name": "Java",
@@ -59,6 +43,23 @@
     {
         "name": "Ionic",
         "icon": "https://img.icons8.com/color/48/null/ionic.png"
+    },
+    {
+        "name":"Microsoft Power BI",
+        "icon": "https://icons8.com/icon/70667/power-bi"
+    },
+    {
+        "name": "tableau",
+        "icon": "https://icons8.com/icon/9Kvi1p1F0tUo/tableau-software"
+    },
+    {
+        "name": "Excel",
+        "icon": "https://icons8.com/icon/117561/microsoft-excel-2019"
+    },
+    {
+        "name": "Microsoft Power Point",
+        "icon": "https://icons8.com/icon/117557/microsoft-powerpoint-2019"
     }
+
       
 ]
