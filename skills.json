@@ -46,19 +46,19 @@
     },
     {
         "name":"Microsoft Power BI",
-        "icon": "https://icons8.com/icon/70667/power-bi"
+        "icon": "https://img.icons8.com/dusk/64/power-bi.png"
     },
     {
         "name": "tableau",
-        "icon": "https://icons8.com/icon/9Kvi1p1F0tUo/tableau-software"
+        "icon": "https://img.icons8.com/color/48/tableau-software.png"
     },
     {
         "name": "Excel",
-        "icon": "https://img.icons8.com/icon/117561/microsoft-excel-2019"
+        "icon": "https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"
     },
     {
         "name": "Microsoft Power Point",
-        "icon": "https://icons8.com/icon/117557/microsoft-powerpoint-2019"
+        "icon": "https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png"
     }
 
       
